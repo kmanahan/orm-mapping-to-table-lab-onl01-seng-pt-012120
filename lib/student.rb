@@ -1,6 +1,9 @@
 class Student
 
-  attr_accessor :name, :
+  attr_accessor :name, :grade 
+  attr_reader :id 
+  
+  
   #  with DB[:conn]  
   
 end
