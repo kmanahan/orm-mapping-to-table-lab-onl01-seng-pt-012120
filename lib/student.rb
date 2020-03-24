@@ -7,6 +7,7 @@ class Student
   @name = name 
   @grade = grade 
   @id = id
-  #  with DB[:conn]  
   end
+  
+
 end
